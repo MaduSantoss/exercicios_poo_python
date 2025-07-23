@@ -53,7 +53,7 @@ exercicios_poo_python/
    git clone https://github.com/MaduSantoss/exercicios_poo_python
 
 
-# Contribuições são bem-vindas!
+## Contribuições são bem-vindas!
 
 Se você encontrar algum erro ou quiser adicionar novos exercícios, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
