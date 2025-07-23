@@ -22,14 +22,23 @@ Os exercícios abordam os seguintes conceitos fundamentais:
 ## 🗂 Estrutura do Projeto
 exercicios_poo_python/
 ├── exercicio_01.py # Classes básicas
+
 ├── exercicio_02.py # Atributos e métodos
+
 ├── exercicio_03.py # Encapsulamento
+
 ├── exercicio_04.py # Herança simples
+
 ├── exercicio_05.py # Herança com polimorfismo
+
 ├── exercicio_06.py # Abstração com classes abstratas
+
 ├── exercicio_07.py # Composição de objetos
+
 ├── exercicio_08.py # Herança múltipla
+
 ├── exercicio_09.py # Projeto final integrando os conceitos
+
 └── README.md # Documentação do projeto
 
 
@@ -37,14 +46,17 @@ exercicios_poo_python/
 
 ## 🚀 Como executar os exercícios
 
+
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/MaduSantoss/exercicios_poo_python
 
 2.**Acesse o diretório**:
+
   cd exercicios_poo_python
 
 3.**Execute qualquer exercício usando o Python**:
+
   python exercicio_01.py
 
 
