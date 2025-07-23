@@ -48,18 +48,9 @@ exercicios_poo_python/
 
 ## 🚀 Como executar os exercícios
 
-
 1. **Clone este repositório**:
    ```bash
    git clone https://github.com/MaduSantoss/exercicios_poo_python
-
-2.**Acesse o diretório**:
-
-  # cd exercicios_poo_python
-
-3.**Execute qualquer exercício usando o Python**:
-
-  # python exercicio_01.py
 
 
 # Contribuições são bem-vindas!
