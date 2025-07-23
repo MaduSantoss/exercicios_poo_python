@@ -55,14 +55,14 @@ exercicios_poo_python/
 
 2.**Acesse o diretório**:
 
-  ## cd exercicios_poo_python
+  # cd exercicios_poo_python
 
 3.**Execute qualquer exercício usando o Python**:
 
-  ## python exercicio_01.py
+  # python exercicio_01.py
 
 
-## Contribuições são bem-vindas!
+# Contribuições são bem-vindas!
 
 Se você encontrar algum erro ou quiser adicionar novos exercícios, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
